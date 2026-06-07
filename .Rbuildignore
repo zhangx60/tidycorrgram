@@ -1,0 +1,9 @@
+^cran-comments\.md$
+^README\.Rmd$
+^pkgdown$
+^_pkgdown\.yml$
+^\.github$
+^\.Rproj\.user$
+^tidycorrgram\.Rproj$
+^CRAN-SUBMISSION$
+^\.gitignore$
